@@ -28,16 +28,16 @@ var models = [
         rotation: '0 180 0',
     },
     {
-        url: './assets/articuno/scene.gltf',
+        url: './assets/livre/scene.gltf',
         scale: '0.2 0.2 0.2',
         rotation: '0 180 0',
-        info: 'Articuno',
+        info: 'livre',
     },
     {
-        url: './assets/dragonite/scene.gltf',
+        url: './assets/voiture/scene.gltf',
         scale: '0.08 0.08 0.08',
         rotation: '0 180 0',
-        info: 'Dragonite',
+        info: 'voiture',
     },
 ];
 
