@@ -1,0 +1,11 @@
+Model Information:
+* title:	GRATUIT Livre
+* source:	https://sketchfab.com/3d-models/gratuit-livre-de79a920c48745ff95c0df7a7c300091
+* author:	KidpaddleetcieGlin (https://sketchfab.com/KidpaddleetcieGlin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GRATUIT Livre" (https://sketchfab.com/3d-models/gratuit-livre-de79a920c48745ff95c0df7a7c300091) by KidpaddleetcieGlin (https://sketchfab.com/KidpaddleetcieGlin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
